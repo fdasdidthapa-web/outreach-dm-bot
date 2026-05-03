@@ -1,0 +1,16 @@
+{
+  "name": "outreach-dm-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that logs !dms commands to Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "googleapis": "^140.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
