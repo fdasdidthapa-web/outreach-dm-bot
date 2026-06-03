@@ -14,7 +14,7 @@ const EMPLOYEE_MAP = {
   ".kokona": "Uzen",
     "purnima01317": "Purnima",
   "pramilashrestha95": "Pramila",
-  "nischalsapkota": "Nischal",
+  "elvish7": "Elvish",
 };
 
 // ─── GOOGLE SHEETS AUTH ────────────────────────────────────────
