@@ -16,6 +16,7 @@ const EMPLOYEE_MAP = {
   "pramilashrestha95": "Pramila",
   "elvish7": "Elvish",
   "na_veen1": "Naveen",
+  "toxichoni": "Aayush",
 };
 
 // ─── GOOGLE SHEETS AUTH ────────────────────────────────────────
