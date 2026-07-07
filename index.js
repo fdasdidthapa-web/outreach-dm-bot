@@ -15,7 +15,7 @@ const EMPLOYEE_MAP = {
     "purnima01317": "Purnima",
   "pramilashrestha95": "Pramila",
   "elvish7": "Elvish",
-  "na_veen1": "Naveen",
+  "kushal077260": "Kushal",
   "toxichoni": "Aayush",
 };
 
